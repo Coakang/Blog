@@ -1,0 +1,2 @@
+# 对于Markdown文件，使用LF换行符
+*.md text eol=lf
