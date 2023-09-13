@@ -1,7 +1,7 @@
 ---
 title: Hexo上传图片
 date: 2023-08-22 16:16:02
-tags:
+tags: hexo
 ---
 
 ## 环境

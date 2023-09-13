@@ -1,7 +1,7 @@
 ---
 title: hexo添加背景图片
 date: 2023-08-23 16:46:27
-tags:	
+tags: hexo
 ---
 
 1. 将背景图片(`background.jpg`)放到**主题目录**的`source/images`目录下
