@@ -77,8 +77,6 @@ marked:
 
 [参考博客](http://songpengpeng.com/2022/05/09/%E6%97%A5%E5%B8%B8%E8%BE%93%E5%87%BA/07-Hexo%E7%9A%84%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E9%97%AE%E9%A2%98/#:~:text=%E8%80%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E5%9C%B0%E5%9D%80%E6%98%AF%3A,http%3A%2F%2Flocalhost%3A4000%2F2022%2F05%2F09%2F%E6%97%A5%E5%B8%B8%E8%BE%93%E5%87%BA%2F07-Hexo%E7%9A%84%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E9%97%AE%E9%A2%98%2Fimage-20220509205853438.png)修改` themes\next\source\js\next-boot.js`文件
 
-(谢谢大佬~可算睡得着了)
-
 ```js
 var images = document.getElementsByTagName("img");
 var loHref = window.location.href
