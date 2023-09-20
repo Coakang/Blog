@@ -12,6 +12,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "css-what": "^6.1.0",
     "hexo": "^6.3.0",
     "hexo-deployer-git": "^4.0.0",
