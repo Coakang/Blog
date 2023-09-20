@@ -1,8 +1,12 @@
 ---
-title: Project-knowledgeRep
+title: 知识化表达
 date: 2023-09-20 15:53:08
 tags: 项目申报
 ---
+
+通用智能演绎相关资料收集
+
+<!--more-->
 
 # 服务机器人的知识表达和智能推理
 
