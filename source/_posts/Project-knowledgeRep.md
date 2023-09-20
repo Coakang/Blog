@@ -14,9 +14,9 @@ tags: 项目申报
 
 知识库的定义没有标准形式-在该基础上要实现知识库更新规则
 
-![image-20230913171457252](Project-knowledgeRep/image-20230913171457252.png)
+<img src="Project-knowledgeRep/image-20230913171457252.png" alt="image-20230913171457252" style="zoom:50%;" />
 
-![image-20230913171353481](Project-knowledgeRep/image-20230913171353481.png)
+<img src="Project-knowledgeRep/image-20230913171353481.png" alt="image-20230913171353481" style="zoom:50%;" />
 
 1、定义机器人知识库
 
@@ -25,7 +25,7 @@ tags: 项目申报
 
 2、基于描述逻辑语言OWL
 
-![image-20230913171148226](Project-knowledgeRep/image-20230913171148226.png)
+<img src="Project-knowledgeRep/image-20230913171148226.png" alt="image-20230913171148226" style="zoom:50%;" />
 
 - TBox是概念（特定应用的词汇），ABox是实例断言（上述词汇范围内）
 
@@ -33,7 +33,7 @@ tags: 项目申报
 
 3、基于本体的多层机器人知识框架
 
-![image-20230913171430939](Project-knowledgeRep/image-20230913171430939.png)
+<img src="Project-knowledgeRep/image-20230913171430939.png" alt="image-20230913171430939" style="zoom:50%;" />
 
 类别：感知—建模—运动—上下文
 
@@ -47,7 +47,7 @@ tags: 项目申报
 
 - 从底层到上层的符号抽象表示
 
-  ![image-20230913171118440](Project-knowledgeRep/image-20230913171118440.png)
+  <img src="Project-knowledgeRep/image-20230913171118440.png" alt="image-20230913171118440" style="zoom:50%;" />
 
 - 空间属性（形状、尺寸），语义类型（房间、办公室）
 

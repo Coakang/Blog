@@ -12,7 +12,7 @@ tags: 项目申报
 
 方案：
 
-![image-20230913160033132](Project-digitalTwin/image-20230913160033132.png)
+<img src="Project-digitalTwin/image-20230913160033132.png" alt="image-20230913160033132" style="zoom:50%;" />
 
 单任务学习：
 
